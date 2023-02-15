@@ -10,8 +10,8 @@ When I'm not working, I enjoy playing the guitar and traveling. Music has been a
 <h2>My Recent Projects</h2>
 One of my favorite things to do is to create PWAs. I love the challenge of building fast, responsive web applications that can work offline and provide a seamless user experience. Some of my recent projects include:
 
-Babble-Island: https://github.com/MatthewKelsey/Babble-Island - A pixel art language learning game.
-Picture This: https://github.com/MatthewKelsey/Picture-This - A place for sharing photos through communal and private albums.
+Babble-Island: https://github.com/MatthewKelsey/Babble-Island - A pixel art language learning game. <br>
+Picture This: https://github.com/MatthewKelsey/Picture-This - A place for sharing photos through communal and private albums.<br>
 Swoop: (https://github.com/MatthewKelsey/Swoop) - An online market place for buying and selling pre-loved items!
 
 <h2>Contact Me</h2>
