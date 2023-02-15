@@ -4,7 +4,7 @@ Hi there, I'm Matt! :wave:
 I'm a passionate programmer, educator, guitarist, and avid traveler who loves to create Progressive Web Applications (PWAs). I have a vast background in education and have spent many years teaching a variety of subjects to students of all ages.
 
 
-My Hobbies
+<h2>My Hobbies
 When I'm not working, I enjoy playing the guitar and traveling. Music has been a passion of mine since I was young, and I love playing everything from classic rock to bossa nova. Travelling is also a huge passion of mine, and I've been fortunate to visit and live in many different countries and experience different cultures.
 
 My Recent Projects
