@@ -15,9 +15,10 @@ Picture This: https://github.com/MatthewKelsey/Picture-This - A place for sharin
 Swoop: (https://github.com/MatthewKelsey/Swoop) - An online market place for buying and selling pre-loved items!
 
 <h2>What I'm up to</h2>
-🔭 I’m currently working on Story Time. A reading app for kids that allows them to create and share their own stories with the world!
-- 🌱 I’m currently learning machine learning with python.
-- 
+🔭 I’m currently working on Story Time. A reading app for kids that allows them to create and share their own stories with the world!<br>
+🌱 I’m currently learning machine learning with python.
+
+
 <h2>Contact Me</h2>
 If you'd like to connect with me or learn more about my work, feel free to reach out to me at matt@mattkelsey.co.uk. I'd love to hear from you and chat about web development, music, travel, or anything else that interests you!
 
