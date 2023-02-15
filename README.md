@@ -5,7 +5,7 @@ I'm a passionate programmer, educator, guitarist, and avid traveler who loves to
 
 
 <h2>My Hobbies</h2>
-When I'm not coding, I enjoy playing the guitar and traveling. Music has been a passion of mine since I was young, and I love playing everything from classic rock to bossa nova. Travelling is also a huge passion of mine, and I've been fortunate to visit and live in many different countries and experience different cultures.
+When I'm not coding, I enjoy playing the guitar and travelling. Music has been a passion of mine since I was young, and I love playing everything from classic rock to bossa nova. Travelling is also a huge passion of mine, and I've been fortunate to visit and live in many different countries and experience different cultures.
 
 <h2>My Recent Projects</h2>
 One of my favorite things to do is to create PWAs. I love the challenge of building fast, responsive web applications that can work offline and provide a seamless user experience. Some of my recent projects include:
