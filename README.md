@@ -1,7 +1,7 @@
 # Matthew Kelsey
 
 Hi there, I'm Matt! :wave:
-I'm a passionate programmer, educator, guitarist, and avid traveler who loves to create Progressive Web Applications (PWAs). I have a vast background in education and have spent many years teaching a variety of subjects to students of all ages.
+I'm a passionate programmer, educator, guitarist, and avid traveller who loves to create Progressive Web Applications (PWAs). I have a vast background in education and have spent many years teaching a variety of subjects to students of all ages.
 
 
 <h2>My Hobbies</h2>
